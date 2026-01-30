@@ -2,7 +2,7 @@
 
 This project utilizes the **Wako-Saitô-Muñoz-Eaton (WSME)** statistical mechanical model combined with **Monte Carlo (MC)** simulations to investigate how masking certain charges affects the protein stability of Ubiquitin (**1UBQ**).
 
-*Based on original code by Prof. Athi N. Naganathan.*
+*Based on original code by Prof. Athi N. Naganathan - *
 *FesCalc_Block.m and cmapCalcElecBlock.m*
 
 ---
