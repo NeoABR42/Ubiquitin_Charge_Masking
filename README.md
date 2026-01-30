@@ -39,6 +39,7 @@ We identified residues for masking by calculating **Relative Solvent Accessibili
 The energetic impact of masking each identified SCR is calculated at physiological temperature (310K). The script utilizes the `get_Free_Energy` function to zero out the charge contribution in the contact distance matrix for the selected residue index.
 
 _Line 5 of each Energy Profile Text file was manually commented out for MATLAB_
+
 ---
 
 ## 4. Monte Carlo Simulation (`Monte_Carlo.m`)
