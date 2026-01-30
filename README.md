@@ -3,6 +3,7 @@
 This project utilizes the **Wako-Saitô-Muñoz-Eaton (WSME)** statistical mechanical model combined with **Monte Carlo (MC)** simulations to investigate how masking certain charges affects the protein stability of Ubiquitin (**1UBQ**).
 
 *Based on original code by Prof. Athi N. Naganathan.*
+*FesCalc_Block.m and cmapCalcElecBlock.m*
 
 ---
 
@@ -57,6 +58,5 @@ We simulate stochastic folding dynamics using a dual-walker approach with a **Me
 | `Input_Files/` | Prerequisite data files (Contact maps, distances, STRIDE output). |
 | `Free_Energies/` | Saved energy profiles for Wild Type and all Mutants. |
 | `Output_Files/` | Heat Capacity profiles, trajectories, and a `Plots/` subfolder. |
-| `Sources/` | Relevant research papers and documentation. |
 
 ---
